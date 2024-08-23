@@ -30,6 +30,30 @@ Charles is a seasoned developer with over 10 years of experience in web developm
 
 ## Getting Started
 
-### Clone the Repository:
-```bash
-git clone https://github.com/your-username/Covered-California.git
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/Covered-California.git
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Covered-California
+3. **Install Dependencies**:
+   ```bash
+   npm install
+4. **Start the Development Server**:
+   ```bash
+   npm start
+****Contribution Guidelines**
+We welcome contributions! To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Follow the project's coding standards.
+4. Commit your changes and push to your fork.
+5. Open a pull request to the main branch.
+6. Refer to the CONTRIBUTING.md file for detailed guidelines.
+   
+
+
+
+
+  
