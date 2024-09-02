@@ -25,7 +25,7 @@ With a user-friendly interface and robust functionality, "Covered California" em
 ## Author
 - **Name**: Charles Church
 - **Email**: charles991church@outlook.com
-- **Website**: Covered California
+- **Website**: [Covered California](https://www.mycoveredcalifornia.com)
 
 - Charles is a seasoned developer with over 10 years of experience in web development.
 - He is a master of coding and has a deep understanding of the healthcare domain. Known for his helping nature and expertise.
