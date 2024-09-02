@@ -1,7 +1,9 @@
 # Covered California
 
 "Covered California" is a comprehensive platform designed to assist individuals and families in selecting and managing their health insurance plans in California. 
-The project aims to simplify the process of comparing different insurance options, understanding coverage details, and making informed decisions. With a user-friendly interface and robust functionality, "Covered California" empowers users to find the best insurance plan tailored to their specific needs. Whether you’re a first-time buyer or looking to renew your policy, this platform offers the tools and resources you need to navigate the complexities of health insurance with ease.
+The project aims to simplify the process of comparing different insurance options, understanding coverage details, and making informed decisions. 
+
+With a user-friendly interface and robust functionality, "Covered California" empowers users to find the best insurance plan tailored to their specific needs. Whether you’re a first-time buyer or looking to renew your policy, this platform offers the tools and resources you need to navigate the complexities of health insurance with ease.
 
 ## Features
 - **Plan Comparison:** Compare multiple health insurance plans side by side to make informed decisions.
@@ -33,7 +35,7 @@ The project aims to simplify the process of comparing different insurance option
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Covered-California.git
+   git clone https://github.com/charles991c/Covered-California.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd Covered-California
